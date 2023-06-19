@@ -1,0 +1,156 @@
+{
+    "banner": [
+        {
+            "id": 1,
+            "image": "./img/carousel-1.jpg",
+            "subheading": "Plumbing & Repairing Services",
+            "heading": "Efficient Residential Plumbing Services",
+            "content": "Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr."
+        },
+        {
+            "id": 1,
+            "image": "./img/carousel-2.jpg",
+            "subheading": "Plumbing & Repairing Services",
+            "heading": "Efficient Residential Plumbing Services",
+            "content": "Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr."
+        }
+    ],
+    "basicservice": [
+        {
+            "id": 1,
+            "image": "./img/service-1.jpg",
+            "heading": "Residential Plumbing",
+            "content": "Nulla facilisi. Vestibulum efficitur risus eget dolor tincidunt scelerisque. Donec laoreet est et tempor dapibus. Quisque pretium porta mi, at tristique tellus venenatis nec. Sed leo erat, sollicitudin sed odio fringilla, molestie dignissim tellus. Etiam a eros mauris. Donec pulvinar imperdiet lorem ac maximus. Donec dapibus nisl dui, a pellentesque eros consectetur imperdiet. Praesent nibh sapien, consequat vitae nibh eu, accumsan fermentum ex. Vivamus venenatis enim turpis, semper condimentum mauris dictum nec. Duis at euismod odio. Sed pellentesque sapien nec ante tincidunt, ac volutpat lectus dapibus. Aliquam nisi nibh, venenatis sit amet euismod at, viverra ut eros. Cras vitae risus orci.Nulla facilisi. Vestibulum efficitur risus eget dolor tincidunt scelerisque. Donec laoreet est et tempor dapibus. Quisque pretium porta mi, at tristique tellus venenatis nec. Sed leo erat, sollicitudin sed odio fringilla, molestie dignissim tellus. Etiam a eros mauris. Donec pulvinar imperdiet lorem ac maximus. Donec dapibus nisl dui, a pellentesque eros consectetur imperdiet. Praesent nibh sapien, consequat vitae nibh eu, accumsan fermentum ex. Vivamus venenatis enim turpis, semper condimentum mauris dictum nec. Duis at euismod odio. Sed pellentesque sapien nec ante tincidunt, ac volutpat lectus dapibus. Aliquam nisi nibh, venenatis sit amet euismod at, viverra ut eros. Cras vitae risus orci Nulla facilisi. Vestibulum efficitur risus eget dolor tincidunt scelerisque. Donec laoreet est et tempor dapibus. Quisque pretium porta mi, at tristique tellus venenatis nec. Sed leo erat, sollicitudin sed odio fringilla, molestie dignissim tellus. Etiam a eros mauris. Donec pulvinar imperdiet lorem ac maximus. Donec dapibus nisl dui, a pellentesque eros consectetur imperdiet. Praesent nibh sapien, consequat vitae nibh eu, accumsan fermentum ex. Vivamus venenatis enim turpis, semper condimentum mauris dictum nec. Duis at euismod odio. Sed pellentesque sapien nec ante tincidunt, ac volutpat lectus dapibus. Aliquam nisi nibh, venenatis sit amet euismod at, viverra ut eros. Cras vitae risus orci"
+        },
+        {
+            "id": 2,
+            "image": "./img/service-2.jpg",
+            "heading": "Commercial Plumbing",
+            "content": "Nulla facilisi. Vestibulum efficitur risus eget dolor tincidunt scelerisque. Donec laoreet est et tempor dapibus. Quisque pretium porta mi, at tristique tellus venenatis nec. Sed leo erat, sollicitudin sed odio fringilla, molestie dignissim tellus. Etiam a eros mauris. Donec pulvinar imperdiet lorem ac maximus. Donec dapibus nisl dui, a pellentesque eros consectetur imperdiet. Praesent nibh sapien, consequat vitae nibh eu, accumsan fermentum ex. Vivamus venenatis enim turpis, semper condimentum mauris dictum nec. Duis at euismod odio. Sed pellentesque sapien nec ante tincidunt, ac volutpat lectus dapibus. Aliquam nisi nibh, venenatis sit amet euismod at, viverra ut eros. Cras vitae risus orci.Nulla facilisi. Vestibulum efficitur risus eget dolor tincidunt scelerisque. Donec laoreet est et tempor dapibus. Quisque pretium porta mi, at tristique tellus venenatis nec. Sed leo erat, sollicitudin sed odio fringilla, molestie dignissim tellus. Etiam a eros mauris. Donec pulvinar imperdiet lorem ac maximus. Donec dapibus nisl dui, a pellentesque eros consectetur imperdiet. Praesent nibh sapien, consequat vitae nibh eu, accumsan fermentum ex. Vivamus venenatis enim turpis, semper condimentum mauris dictum nec. Duis at euismod odio. Sed pellentesque sapien nec ante tincidunt, ac volutpat lectus dapibus. Aliquam nisi nibh, venenatis sit amet euismod at, viverra ut eros. Cras vitae risus orci Nulla facilisi. Vestibulum efficitur risus eget dolor tincidunt scelerisque. Donec laoreet est et tempor dapibus. Quisque pretium porta mi, at tristique tellus venenatis nec. Sed leo erat, sollicitudin sed odio fringilla, molestie dignissim tellus. Etiam a eros mauris. Donec pulvinar imperdiet lorem ac maximus. Donec dapibus nisl dui, a pellentesque eros consectetur imperdiet. Praesent nibh sapien, consequat vitae nibh eu, accumsan fermentum ex. Vivamus venenatis enim turpis, semper condimentum mauris dictum nec. Duis at euismod odio. Sed pellentesque sapien nec ante tincidunt, ac volutpat lectus dapibus. Aliquam nisi nibh, venenatis sit amet euismod at, viverra ut eros. Cras vitae risus orci"
+        },
+        {
+            "id": 3,
+            "image": "./img/service-3.jpg",
+            "heading": "Emergency Servicing",
+            "content": "Nulla facilisi. Vestibulum efficitur risus eget dolor tincidunt scelerisque. Donec laoreet est et tempor dapibus. Quisque pretium porta mi, at tristique tellus venenatis nec. Sed leo erat, sollicitudin sed odio fringilla, molestie dignissim tellus. Etiam a eros mauris. Donec pulvinar imperdiet lorem ac maximus. Donec dapibus nisl dui, a pellentesque eros consectetur imperdiet. Praesent nibh sapien, consequat vitae nibh eu, accumsan fermentum ex. Vivamus venenatis enim turpis, semper condimentum mauris dictum nec. Duis at euismod odio. Sed pellentesque sapien nec ante tincidunt, ac volutpat lectus dapibus. Aliquam nisi nibh, venenatis sit amet euismod at, viverra ut eros. Cras vitae risus orci.Nulla facilisi. Vestibulum efficitur risus eget dolor tincidunt scelerisque. Donec laoreet est et tempor dapibus. Quisque pretium porta mi, at tristique tellus venenatis nec. Sed leo erat, sollicitudin sed odio fringilla, molestie dignissim tellus. Etiam a eros mauris. Donec pulvinar imperdiet lorem ac maximus. Donec dapibus nisl dui, a pellentesque eros consectetur imperdiet. Praesent nibh sapien, consequat vitae nibh eu, accumsan fermentum ex. Vivamus venenatis enim turpis, semper condimentum mauris dictum nec. Duis at euismod odio. Sed pellentesque sapien nec ante tincidunt, ac volutpat lectus dapibus. Aliquam nisi nibh, venenatis sit amet euismod at, viverra ut eros. Cras vitae risus orci Nulla facilisi. Vestibulum efficitur risus eget dolor tincidunt scelerisque. Donec laoreet est et tempor dapibus. Quisque pretium porta mi, at tristique tellus venenatis nec. Sed leo erat, sollicitudin sed odio fringilla, molestie dignissim tellus. Etiam a eros mauris. Donec pulvinar imperdiet lorem ac maximus. Donec dapibus nisl dui, a pellentesque eros consectetur imperdiet. Praesent nibh sapien, consequat vitae nibh eu, accumsan fermentum ex. Vivamus venenatis enim turpis, semper condimentum mauris dictum nec. Duis at euismod odio. Sed pellentesque sapien nec ante tincidunt, ac volutpat lectus dapibus. Aliquam nisi nibh, venenatis sit amet euismod at, viverra ut eros. Cras vitae risus orci"
+        }
+    ],
+    "mainservice": [
+        {
+            "id": 1,
+            "icon": "fa fa-tint fa-2x text-primary",
+            "heading": "Water Heater Repair",
+            "image": "https://img.freepik.com/free-photo/worker-repairing-water-heater_23-2149334230.jpg?w=1380&t=st=1686988577~exp=1686989177~hmac=57465d20e7d45f71aac4a0a6ff2a050daaa5fdf552b56d2ac96aa4f987df9efc",
+            "subheading": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam justo.",
+            "list": [
+                "Quality Service",
+                "Customer Satisfaction",
+                "Support 24/7"
+            ],
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam odio dolorem error voluptatum, reiciendis similique velit nostrum dignissimos? Aliquam molestiae, repellat inventore blanditiis mollitia minima, alias doloribus iste magni impedit provident magnam ipsum debitis odio? Magnam totam perspiciatis rem magni quisquam minima provident, ab rerum voluptatum error inventore, atque quibusdam. Vel, alias quidem, placeat, assumenda molestias magnam amet consequatur doloremque iusto dolore nam qui dolorem totam? Debitis aut eos impedit quis ad ex. Animi, laudantium officia? Quo, soluta officia sed nisi sint porro a, iste dicta dolore numquam eum voluptate voluptatem quos explicabo molestias itaque quasi dolores, rem obcaecati nobis repudiandae? Aut, vero perferendis. Iste voluptas quasi consequatur harum expedita, doloremque esse corporis eius reiciendis officia molestiae sed nesciunt vero perspiciatis aperiam reprehenderit. Iste nostrum cum officia fuga nesciunt, modi quia nam blanditiis maiores ex ut unde doloremque totam exercitationem delectus laborum? Nihil, nesciunt nemo ratione eligendi non fuga, pariatur impedit doloribus magnam dolore ab corporis odio provident, quibusdam illum dolores debitis voluptates animi quidem molestiae totam nisi amet! Dolorum ea iste explicabo voluptate? Atque veniam fugit, ullam labore distinctio obcaecati, alias, consequuntur voluptatibus officia repudiandae nesciunt id totam velit culpa aspernatur libero facere ea. Iure reiciendis at minima possimus."
+        },
+        {
+            "id": 2,
+            "icon": "fa fa-water fa-2x text-primary",
+            "heading": "Drain Repair",
+            "image": "https://img.freepik.com/free-photo/close-up-men-working-together_23-2148752013.jpg?w=1380&t=st=1686988654~exp=1686989254~hmac=31a5d515da80482adc353c63b5b476268ac5a09363b2fa089a039716e2931843",
+            "subheading": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam justo.",
+            "list": [
+                "Quality Service",
+                "Customer Satisfaction",
+                "Support 24/7"
+            ],
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam odio dolorem error voluptatum, reiciendis similique velit nostrum dignissimos? Aliquam molestiae, repellat inventore blanditiis mollitia minima, alias doloribus iste magni impedit provident magnam ipsum debitis odio? Magnam totam perspiciatis rem magni quisquam minima provident, ab rerum voluptatum error inventore, atque quibusdam. Vel, alias quidem, placeat, assumenda molestias magnam amet consequatur doloremque iusto dolore nam qui dolorem totam? Debitis aut eos impedit quis ad ex. Animi, laudantium officia? Quo, soluta officia sed nisi sint porro a, iste dicta dolore numquam eum voluptate voluptatem quos explicabo molestias itaque quasi dolores, rem obcaecati nobis repudiandae? Aut, vero perferendis. Iste voluptas quasi consequatur harum expedita, doloremque esse corporis eius reiciendis officia molestiae sed nesciunt vero perspiciatis aperiam reprehenderit. Iste nostrum cum officia fuga nesciunt, modi quia nam blanditiis maiores ex ut unde doloremque totam exercitationem delectus laborum? Nihil, nesciunt nemo ratione eligendi non fuga, pariatur impedit doloribus magnam dolore ab corporis odio provident, quibusdam illum dolores debitis voluptates animi quidem molestiae totam nisi amet! Dolorum ea iste explicabo voluptate? Atque veniam fugit, ullam labore distinctio obcaecati, alias, consequuntur voluptatibus officia repudiandae nesciunt id totam velit culpa aspernatur libero facere ea. Iure reiciendis at minima possimus."
+        },
+        {
+            "id": 3,
+            "icon": "fa fa-toilet fa-2x text-primary",
+            "heading": "Toilet Pipe Repair",
+            "image": "https://img.freepik.com/free-photo/plumber-assembling-pipe_1098-17772.jpg?w=1380&t=st=1686988693~exp=1686989293~hmac=35c68ca0839d8159fcf201b375c637eb60aac62a144b77535144a3d1353427fa",
+            "subheading": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam justo.",
+            "list": [
+                "Quality Service",
+                "Customer Satisfaction",
+                "Support 24/7"
+            ],
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam odio dolorem error voluptatum, reiciendis similique velit nostrum dignissimos? Aliquam molestiae, repellat inventore blanditiis mollitia minima, alias doloribus iste magni impedit provident magnam ipsum debitis odio? Magnam totam perspiciatis rem magni quisquam minima provident, ab rerum voluptatum error inventore, atque quibusdam. Vel, alias quidem, placeat, assumenda molestias magnam amet consequatur doloremque iusto dolore nam qui dolorem totam? Debitis aut eos impedit quis ad ex. Animi, laudantium officia? Quo, soluta officia sed nisi sint porro a, iste dicta dolore numquam eum voluptate voluptatem quos explicabo molestias itaque quasi dolores, rem obcaecati nobis repudiandae? Aut, vero perferendis. Iste voluptas quasi consequatur harum expedita, doloremque esse corporis eius reiciendis officia molestiae sed nesciunt vero perspiciatis aperiam reprehenderit. Iste nostrum cum officia fuga nesciunt, modi quia nam blanditiis maiores ex ut unde doloremque totam exercitationem delectus laborum? Nihil, nesciunt nemo ratione eligendi non fuga, pariatur impedit doloribus magnam dolore ab corporis odio provident, quibusdam illum dolores debitis voluptates animi quidem molestiae totam nisi amet! Dolorum ea iste explicabo voluptate? Atque veniam fugit, ullam labore distinctio obcaecati, alias, consequuntur voluptatibus officia repudiandae nesciunt id totam velit culpa aspernatur libero facere ea. Iure reiciendis at minima possimus."
+        },
+        {
+            "id": 4,
+            "icon": "fa fa-shower fa-2x text-primary",
+            "heading": "Sewer Line Repair",
+            "image": "https://img.freepik.com/free-photo/man-fixing-kitchen-sink_53876-13430.jpg?w=1380&t=st=1686988736~exp=1686989336~hmac=6b9ee8ff341c4736435edfd03f313cd9dc041add796ebeb9bd1c120e2e729c95",
+            "subheading": "Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam justo.",
+            "list": [
+                "Quality Service",
+                "Customer Satisfaction",
+                "Support 24/7"
+            ],
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam odio dolorem error voluptatum, reiciendis similique velit nostrum dignissimos? Aliquam molestiae, repellat inventore blanditiis mollitia minima, alias doloribus iste magni impedit provident magnam ipsum debitis odio? Magnam totam perspiciatis rem magni quisquam minima provident, ab rerum voluptatum error inventore, atque quibusdam. Vel, alias quidem, placeat, assumenda molestias magnam amet consequatur doloremque iusto dolore nam qui dolorem totam? Debitis aut eos impedit quis ad ex. Animi, laudantium officia? Quo, soluta officia sed nisi sint porro a, iste dicta dolore numquam eum voluptate voluptatem quos explicabo molestias itaque quasi dolores, rem obcaecati nobis repudiandae? Aut, vero perferendis. Iste voluptas quasi consequatur harum expedita, doloremque esse corporis eius reiciendis officia molestiae sed nesciunt vero perspiciatis aperiam reprehenderit. Iste nostrum cum officia fuga nesciunt, modi quia nam blanditiis maiores ex ut unde doloremque totam exercitationem delectus laborum? Nihil, nesciunt nemo ratione eligendi non fuga, pariatur impedit doloribus magnam dolore ab corporis odio provident, quibusdam illum dolores debitis voluptates animi quidem molestiae totam nisi amet! Dolorum ea iste explicabo voluptate? Atque veniam fugit, ullam labore distinctio obcaecati, alias, consequuntur voluptatibus officia repudiandae nesciunt id totam velit culpa aspernatur libero facere ea. Iure reiciendis at minima possimus."
+        }
+    ],
+    "testimonial": [
+        {
+            "id": 1,
+            "name": "Ishita Kundu",
+            "designation": "Student",
+            "image": "./img/testimonial-1.jpg",
+            "content": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit."
+        },
+        {
+            "id": 2,
+            "name": "Sujoy Mondal",
+            "designation": "Designer",
+            "image": "./img/testimonial-2.jpg",
+            "content": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit."
+        },
+        {
+            "id": 3,
+            "name": "Bijoy Das",
+            "designation": "Front end Dev",
+            "image": "./img/testimonial-3.jpg",
+            "content": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit."
+        },
+        {
+            "id": 4,
+            "name": "Puja Shaw",
+            "designation": "Team Leader",
+            "image": "./img/testimonial-4.jpg",
+            "content": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit."
+        }
+    ],
+    "members" : [
+        {
+            "id" : 1,
+            "name" : "Surojit Sarkar",
+            "designation" : "UI UX DESIGNER",
+            "image" : "./img/team-1.jpg",
+            "facebookID" : "",
+            "instaID" : ""
+        },
+        {
+            "id" : 2,
+            "name" : "Soni Sharma",
+            "designation" : "TEACHER",
+            "image" : "./img/team-2.jpg",
+            "facebookID" : "https://www.facebook.com/soni.shr1234?mibextid=ZbWKwL",
+            "instaID" : "https://instagram.com/soni.shr1234?igshid=NGExMmI2YTkyZg=="
+        },
+        {
+            "id" : 3,
+            "name" : "Pradipta Jana",
+            "designation" : "DEVELOPER",
+            "image" : "./img/team-3.jpg",
+            "facebookID" : "https://www.facebook.com/pradipta.jana.967/",
+            "instaID" : "https://www.instagram.com/ishita_kundu_04/"
+        },
+        {
+            "id" : 4,
+            "name" : "Poulomi Sarkar",
+            "designation" : "TESTER",
+            "image" : "./img/team-4.jpg",
+            "facebookID" : "https://www.facebook.com/poulami.mukherjee.900",
+            "instaID" : "https://www.instagram.com/poulamimukherjee96/"
+        }
+    ]
+}
